@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Love",
+    "user_name": "lovie",
+    "password": "h00",
+    "profile": [
+      {
+        "age": 23,
+        "gender": "Female",
+        "education": "University",
+        "isVerified": "True",
+        "tweets": [
+          {
+            "tweet": "Naija",
+            "likes": 23
+          }
+        ],
+        "followers": 56,
+        "following": 14
+      }
+    ]
+  }
+]
